@@ -1,0 +1,5 @@
+Politics --> 0
+Sports --> 1
+Media --> 2
+Market & Economy --> 3
+STEM --> 4
